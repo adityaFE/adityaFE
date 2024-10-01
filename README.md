@@ -15,6 +15,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityaFE&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<img align="left" alt="Holopin Badge" width="400" src="https://www.holopin.io/hacktoberfest2024/userbadge/cm1q4rzsh00970cl7cop2vazy">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
