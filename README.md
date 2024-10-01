@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya Anand</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on building responsive websites for end users.<br>👯 I’m looking to collaborate on new projects and do some open source contributions.<br>🤝 I’m looking for help with new opportunities.<br>🌱 I’m currently learning next.js.<br>⚡ I like photography and create videos.<br><br>
@@ -15,7 +16,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityaFE&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-<img src="https://i.ibb.co/BqSHYPm/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" border="0">
+<img src="https://i.ibb.co/BqSHYPm/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" border="0" width="100" height="100">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
