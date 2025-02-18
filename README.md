@@ -4,7 +4,9 @@
 # 💫 About Me:
 🔭 I’m currently working on building responsive websites for end users.<br>👯 I’m looking to collaborate on new projects and do some open source contributions.<br>🤝 I’m looking for help with new opportunities.<br>🌱 I’m currently learning next.js.<br>⚡ I like photography and create videos.<br><br>
 
-Currently working on building a chatbot using React for frontend and exploring how to have the backend and run the llm models for the bot and integrate.
+~~* Currently working on building a chatbot using React using pure html, css and javascript and integrate with Google's Gemini~~ ✅
+* Currently working on building a Quiz app with react. ⚒️
+    - Future scope will be to add a backend to it.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/adiiiii.exe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-anand-4a843516a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Adandfys36676) 
