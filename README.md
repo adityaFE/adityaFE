@@ -7,6 +7,7 @@
 Portfolio: https://portfolio-adityafe.netlify.app/
 
 ~~* Currently working on building a chatbot using React using pure html, css and javascript and integrate with Google's Gemini~~ ✅
+~~* Comlpleted a fullstack webapp for applying to jobs using tinder style.~~ ✅
 * Currently working on building a Quiz app with react. ⚒️
     - Future scope will be to add a backend to it.
 
